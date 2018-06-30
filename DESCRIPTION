@@ -24,7 +24,6 @@ Imports:
   magrittr,
   memuse,
   MultiAssayExperiment,
-  packrat,
   plyranges,
   regioneR,
   RaggedExperiment,
